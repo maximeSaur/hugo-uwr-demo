@@ -13,7 +13,7 @@
       <link>http://localhost:58911/posts/my-first-post/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
       <guid>http://localhost:58911/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Il faut que quelqu&amp;rsquo;un prenne en charge un projet Data Science.&lt;/p&gt;&#xA;&lt;p&gt;Je recommande que ce ne soit pas Gabriel.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;hello-there&#34;&gt;Hello there&lt;/h2&gt;&#xA;&lt;p&gt;Il faut que quelqu&amp;rsquo;un prenne en charge un projet Data Science.&lt;/p&gt;&#xA;&lt;p&gt;Je recommande que ce ne soit pas Gabriel.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
